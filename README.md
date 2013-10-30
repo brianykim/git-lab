@@ -13,4 +13,4 @@ MichaelQ94
 
 Lab section: Tuesday 6pm
 
-![Daft Octocat](http://octodex.github.com/daftpunktocat-guy/)
+![DaftPunktocat](http://octodex.github.com/images/daftpunktocat-guy.gif)
