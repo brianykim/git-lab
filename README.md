@@ -14,3 +14,5 @@ MichaelQ94
 Lab section: Tuesday 6pm
 
 ![DaftPunktocat](http://octodex.github.com/images/daftpunktocat-guy.gif)
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
